@@ -1,0 +1,4 @@
+associations_en_05_01_2015.csv filter=fat -crlf
+bnc_texts.txt filter=fat -crlf
+bnc_vocab.txt filter=fat -crlf
+usersasso.csv filter=fat -crlf
